@@ -1,0 +1,32 @@
+*{
+    font-family: Radio_Canada_Big;
+  
+ }
+ .BlackTheme {
+   background-color: black;
+   color: white;
+ }
+ .cyanTheme{
+     background-color: rgb(57, 211, 211);
+     color: rgb(30, 90, 90);
+ }
+ .salmonTheme{
+   background-color: rgb(250, 128, 114);
+   color: rgb(99, 38, 31);
+ }
+ .whiteTheme{
+   background-color: white;
+   color: black;
+ 
+ }
+ 
+ .card{
+   transition: .2s all;
+ }
+ 
+ .heroVideo{
+   clip-path: circle(100% at 50% 50%);
+ }
+ body{
+   transition: 1s;
+ }
